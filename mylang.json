@@ -1,0 +1,13 @@
+{
+  "name": "MyLang2-examples",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "./index.ml",
+  "scripts": {
+    "run": "mylang index.ml"
+  },
+  "files": [
+    "index.ml"
+  ],
+  "dependencies": {}
+}
