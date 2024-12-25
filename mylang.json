@@ -7,7 +7,7 @@
     "run": "mylang index.ml"
   },
   "files": [
-    "index.ml"
+    "./*.ml"
   ],
   "dependencies": {}
 }
