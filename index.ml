@@ -1,3 +1,3 @@
 import "coreio";
 
-coreio.printf("Hello world");
+coreio.print("Hello world");
